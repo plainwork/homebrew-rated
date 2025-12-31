@@ -1,6 +1,6 @@
 cask "rated" do
-  version "0.0.3"
-  sha256 "d38b10752e098ee2b3c4f33e4306c813fbd1848aa136c9ed5c1e567f05d12db9"
+  version "0.0.4"
+  sha256 "a536b7fe403ca86957f8d4498addf6976c096838367140793cd37683516fd305"
 
   url "https://github.com/plainwork/rated/releases/download/v#{version}/Rated-#{version}.zip"
   name "Rated"
